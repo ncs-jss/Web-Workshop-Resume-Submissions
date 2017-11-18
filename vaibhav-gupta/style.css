@@ -1,0 +1,8 @@
+body{background:lightyellow;background-image: url("vg.jpg");background-repeat: no-repeat;background-position: left top;background-size: 150px;margin-left:20px;margin-left:50px;}
+h1{margin-left: 150px;font-style: italic;}
+h2{margin-left: 150px;font-style: italic;}
+h3{margin-left: 150px;font-style: italic;font-family: arial;}
+p{text-align: center; font-size: 25px;}
+li{font-size: 25px;}
+.Q{float: left;height: 100px;width: 650px;margin: 10px;font-style: italic;}
+.L{float: left;height: 100px;width: 650px;margin: 10px;font-style: italic;}
