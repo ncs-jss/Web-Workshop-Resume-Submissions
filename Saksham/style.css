@@ -1,0 +1,90 @@
+.background-video{
+	position: fixed;
+	z-index: -1000;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	background-size: cover;
+}
+#video-bg-elem{
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	min-width: 100%;
+}
+.smallbox{
+	width: 650px;
+	background: rgba(0, 0, 0, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin:auto;
+	margin-top: 5%;
+	color: white;
+	font-family: 'Century gothic',sans-serif; 
+}
+.profile{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	border: 4px solid white;#FF5733
+}
+#name{
+	color: #FF5733;
+	margin-top:-73px;
+   }
+.smallbox h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+	margin-top: -5px;
+	
+}
+.smallbox h5{
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+#sub{
+    margin-top: -25px;
+    letter-spacing: 1px;
+    font-family: "arial"
+}
+.smallbox p{
+	text-align: justify;
+	letter-spacing: 0;
+}
+.profile:hover{
+   	width: 250px;
+	height: 250px;
+	border: 4px solid #FF5733;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+.smallbox li{
+	display: inline-block;
+	margin: 6px;
+	list-style: none;
+}
+.button{
+ 	font-size: 1rem;
+ 	font-weight: 700;
+ 	border: 3px solid white;
+ 	letter-spacing: 1px;
+ 	border-radius: 2rem;
+ 	padding: 0.5rem;
+ 	color: white;
+   text-decoration: none;
+
+ }
+.button:hover{
+ 	padding: 0.7rem;
+ }
+ a{
+  color:white;
+  text-decoration: none;
+ }
