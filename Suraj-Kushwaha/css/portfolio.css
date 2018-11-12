@@ -1,0 +1,200 @@
+body{
+	background:url('../image/appleglow.png') no-repeat center center fixed;
+	font-family:georgia, Arial, Helvetica,san-serif;
+	background-size:cover;
+	width:80%;
+	margin:0 auto;                           
+	color:#fff;
+
+	
+}
+header .highlight{
+	color:#FF0000;                     /*global*/
+	 font-weight:bold;
+	 font-size: 3rem;
+}
+h1{
+	color:#fff;
+	text-transform: uppercase;             /*global*/
+	font-weight: lighter;
+}
+.main{
+	width:80%;
+}
+
+.initial{
+	color:green;
+	line-height:5px;
+	margin-top: 70px;
+}
+ 
+ul{
+	float: left;
+	margin:0;
+	padding:0;
+}
+
+.mainheader li{
+	float:left;
+	font-size: 150%;
+	display:inline;
+	padding:40px 80px 20px 0;
+	
+}
+.mainheader li a{
+	color: #fff;
+	text-decoration: none;
+}
+
+ header .current a{
+ 	color:#20B2AA;
+ 	font-weight: bold;
+ }
+ header a:hover{
+	 color:#FFFF00;
+	 font-weight:bold;
+ }
+ .para1{
+ 	float: left;
+ 	margin:80px 200px 10px 200px;
+ 	line-height:20pxs;
+ 	font-size: 18px;
+ }
+ .para1 #sub-para a{
+ 	text-decoration: none;
+ 	color:#0000FF;
+ 	
+
+ }
+.para1 #sub-para{
+ 	margin-top: 50px;
+ }
+ .para1 #muski{
+ 	margin-top: 30px;
+ }
+
+ .bottom{
+ 	float: left;
+ 	padding: 80px;
+ 	margin-left: 120px;
+ }
+ /*About Me*/
+ .about{
+ 	line-height: 25px;
+ }
+ .about h1{
+ 	margin-top: 30px;
+ }
+ .about #start{
+ 	font-size: 13px;
+ 	color: #00FFFF;
+ 	margin-bottom: 5px;
+ }
+ #bio{
+ 	text-align: center;
+ 	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background-color: #fff;
+	margin-top: 2px;
+	color: #FFD700;
+	font-size:40px;
+	padding: 10px; 
+ }
+ .para2 #sub-para2{
+ 	float: left; 	
+ 	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	color:#0000CD;
+	background-color: #fff;
+	width:500px;
+	padding: 2% 3%;
+	height: 180px;
+	margin: 1px 0 5px 0;
+ }
+
+ #education{
+ 	float: left;
+ 	color:#0000CD; 
+ 	margin-top: 25px;
+ 	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background-color: #fff;
+	margin-left: 20%;
+}
+#education h2{
+	text-align: center;
+	color:#20B2AA;
+}
+#education thead{
+	color: black;
+}
+ #address{
+	float: right;
+	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background-color: #fff;
+    color:#fff; 
+    width: 600px;
+   padding-bottom: 10px;
+    text-align: center;
+}
+#address h2{
+	
+	color:#800000;
+}
+
+/*Contact Me*/
+.button1{
+	float: left;
+	margin: 13% 3% 0 10%;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	background-color:#008080;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+.button1:hover{
+	background-color: #00BFFF;
+}
+.button1:active{
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translate(4px);
+}
+.button2{
+	margin: 13% 5% 0 7%;
+	float: right;
+	padding: 15px 25px;
+	font-size: 24px;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	background-color:#008080;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+.button2:hover{
+	background-color: #00BFFF;
+}
+.button2:active{
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translate(4px);
+}
+/*My work..*/
+
+ .img1{
+ 	min-width: 30px;
+ }
+
