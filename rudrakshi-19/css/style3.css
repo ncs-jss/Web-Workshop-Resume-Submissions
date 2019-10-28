@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+	background-color:burlywood;
+}
+.ed{
+    background-color: gray;
+    padding: 5px;
+    text-align: center;
+    font-style: italic;
+}
+#I span.ss{
+    color: red;
+    
+    
+}
+#II span.s{
+    color: blue;
+}
+#III span.h{
+    color: green;
+}

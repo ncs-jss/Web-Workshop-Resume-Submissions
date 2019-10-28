@@ -1,0 +1,84 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+
+.heading{
+	background-color: red;
+	color: white;
+}
+
+body{
+	margin: 40px;
+	background-color: black;
+	color: white;
+	border: 10px white dotted;
+	padding: 3px;
+}
+
+.start{
+	background-color: rgb(50,50,250);
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: 20% 80%;
+}
+
+.item1{
+	height: 150px;
+	width: 150px;
+	border: 2px white solid;
+	
+}
+
+h3{
+	background-color: rgb(200,100,100);
+}
+
+.c{
+	height: 200px;
+	width: 180px;
+}
+
+img{
+	height: 150px;
+	width: 150px;
+}
+
+
+
+.item2{
+	font-weight: bold;
+	text-align: left;
+}
+
+.qualification{
+	text-align: center;
+	background-color: rgb(220,100,50);
+	
+
+}	
+
+table{
+	border: 1;
+	color:white;
+	border:white 6px solid;
+	border-collapse: collapse;
+	font-style: bold;
+}
+.truth{
+	background-color: white;
+	color: black;
+}
+
+.grid-container2{
+	display: grid;
+	grid-template-columns: 100%;
+}
+.para{
+	background-color: rgb(100,300,200);
+	font-size: 20px;
+	color :black;
+
+}
+
